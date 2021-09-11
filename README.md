@@ -13,5 +13,8 @@ It  is  vital  that  credit  card  companies  are  able  to identify  fraudulent
 Fraud  detection  involves  monitoring  the  activities  of populations of  users in  order to  estimate, perceive  or avoid objectionable behaviour, which consist of fraud, intrusion, and defaulting. 
 ## Libraries and Tools used :
    Python, Jupyter Notebook,Machine LearningAlgorithm - Logistic Regression, Scikit-learn, Pandas, Numpy etc.
+   
+## Dataset link :https://www.kaggle.com/mlg-ulb/creditcardfraud
+
 ## Conclusion :
 Credit  card  fraud  is  without  a  doubt  an  act  of  criminal dishonesty.  This  project shows methods  of  fraud  along  with  their  detection and how machine learning can  be applied to get better results in fraud detection along with the algorithm, explanation its implementation and experimentation results.
